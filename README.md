@@ -26,6 +26,8 @@ Whenever he/she will Press "Find Flight" button then it will show the weather da
 I have also displayed maximum temperature, average temperature and minimum temperature of the destination location of that travelling day.
 Similarly i also displayed the maximum humidity, average humidity and minimum humidity of the destination location of that travelling day.
 
+It will also display available flight which has been filled up with dummy data.
+
 
 ## Prerequisites
 - [x] node >= 14.0.0
@@ -39,6 +41,3 @@ Similarly i also displayed the maximum humidity, average humidity and minimum hu
 - [x] vue intit webpack projectname
 - [x] npm install --save axios vue-axios
 - [x] npm install vue-hotel-datepicker 
-```
-https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-```
