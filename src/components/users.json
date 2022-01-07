@@ -1,0 +1,37 @@
+[
+    { "id": 1,
+      "Flight": "Air-737",
+      "Departure": "Dhaka",
+      "Duration" :"4hr",
+      "Arrival" : "Chittagong",
+      "Cost"   : "4000"
+    },
+    { "id": 2,
+        "Flight": "Air-737",
+        "Departure": "Dhaka",
+        "Duration" :"1hr",
+        "Arrival" : "India",
+        "Cost"   : "5,000"
+      },
+      { "id": 3,
+        "Flight": "Air-738",
+        "Departure": "USA",
+        "Duration" :"7hr",
+        "Arrival" : "Australia",
+        "Cost"   : "40,000"
+      },
+      { "id": 4,
+        "Flight": "Air-738",
+        "Departure": "USA",
+        "Duration" :"6hr",
+        "Arrival" : "Pakistan",
+        "Cost"   : "40,000"
+      },
+      { "id": 5,
+        "Flight": "Air-778",
+        "Departure": "Colombia",
+        "Duration" :"2hr",
+        "Arrival" : "Mexico",
+        "Cost"   : "10,000"
+      }
+  ]
