@@ -1,12 +1,4 @@
 # vuejs_assignment
-### To run
-```
-npm run dev
-```
-### Copy the url and hit the url
-```
-http://localhost:8080/
-```
 This Project is basically a flight booking project.
 An user can select his or her Starting location and Destination and date also.
 Whenever he/she will Press "Find Flight" button then it will show the weather data of destination location.
@@ -29,9 +21,14 @@ Similarly i also displayed the maximum humidity, average humidity and minimum hu
 It will also display available flight which has been filled up with dummy data.
 
 
+### How to run the project
+- [x] Download Nodejs and install ```https://nodejs.org/en/download/```
 ## Prerequisites
 - [x] node >= 14.0.0
 - [x] npm >= 3.0.0
+
+## For Frontend
+- [x] node >= 14.0.0
 
 ## Installation
 - [x] npm install 
@@ -41,3 +38,12 @@ It will also display available flight which has been filled up with dummy data.
 - [x] vue intit webpack projectname
 - [x] npm install --save axios vue-axios
 - [x] npm install vue-hotel-datepicker 
+
+### To run
+```
+npm run dev
+```
+### Copy the url and hit the url
+```
+http://localhost:8080/
+```
