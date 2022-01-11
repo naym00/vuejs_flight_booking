@@ -20,30 +20,14 @@ Similarly i also displayed the maximum humidity, average humidity and minimum hu
 
 It will also display available flight which has been filled up with dummy data.
 
+### Packages
+- [x] Axios
+- [x] Vue-Hotel-Datepicker 
 
 ### How to run the project
-- [x] Download Nodejs and install ```https://nodejs.org/en/download/```
-## Prerequisites
-- [x] node >= 14.0.0
-- [x] npm >= 3.0.0
-
-## For Frontend
-- [x] node >= 14.0.0
-
-## Installation
-- [x] npm install 
-- [x] npm install -g @vue/cli
-- [x] npm update -g @vue/cli
-- [x] npm install -g @vue/cli-init
-- [x] vue intit webpack projectname
-- [x] npm install --save axios vue-axios
-- [x] npm install vue-hotel-datepicker 
-
-### To run
-```
-npm run dev
-```
-### Copy the url and hit the url
-```
-http://localhost:8080/
-```
+- [x] Install Nodejs ```https://nodejs.org/en/download/```
+- [x] Install npm ```npm install```
+- [x] Install Axios ```npm install --save axios vue-axios```
+- [x] Install Date-Picker ```npm install vue-hotel-datepicker```
+- [x] Run Project ```npm run dev```
+- [x] Hit to this url ```http://localhost:8080/``` 
