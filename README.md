@@ -20,6 +20,9 @@ Similarly i also displayed the maximum humidity, average humidity and minimum hu
 
 It will also display available flight which has been filled up with dummy data.
 
+### For Frontend
+- [x] VueJS
+
 ### Packages
 - [x] Axios
 - [x] Vue-Hotel-Datepicker 
